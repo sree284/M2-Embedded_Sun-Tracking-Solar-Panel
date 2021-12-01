@@ -18,6 +18,8 @@ Research:
   Able to grab the energy through out the day.
   
   
+  
+  
  4W and 1H:
   
 WHEN:
@@ -45,72 +47,103 @@ Based on the light falling on the two LDRs, the ATmega328 Microcontroller change
 
 
 
+
 SWOT ANALYSIS:
+
 
 Strengths:
 
+
   Renewable Energy Source	
+  
 
   Reduces Electricity Bills	
+  
 
   Diverse Applications	
+  
 
   Low Maintenance Costs	
+  
 
   Technology Development
 
 
+
 Weakness:
+
 
   Cost
 
+
   Weather dependent
+
 
   Solar Energy storage is expensive
 
+
   Uses a lot of space
+
 
   Associated with pollution
 
 
+
 Opportunities:
+
 
   Solar trackers generate more electricity than their stationary counterparts due to an increased direct exposure to solar rays.
 
 
+
 Threats:
+
 
   Location & Sunlight Availability.
 
+
   Solar Panels use a large amount of space.
+
 
   The Sun isn't always present.
 
+
   Solar Energy is Inefficient.
+
 
   There is an overlooked Pollution & Environmental Impact.
 
+
   Expensive Energy Storage.
+
 
   High Initial Cost.
 
 
 
+
 High Level Requirements:
+
 
   The solar energy can be reused as it is non-renewable resource.
 
+
   This also saves money as there is no need to pay for energy used (excluding the initial setup cost)
+
 
   Helps in maximizing the solar energy absorption by continuously tracking the sun.
 
 
 
+
 Low Level Requirements:
+
 
   Though solar energy can be utilized to maximum extent this may create problems in rainy season.
 
+
   Although solar energy can be saved to batteries, they are heavy and occupy more space and required to change time to time.
+
 
   They are expensive.
 
