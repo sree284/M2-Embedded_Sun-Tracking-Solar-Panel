@@ -1,7 +1,7 @@
 
 Introduction:
    
-    As the non renewable energy resources are decreasing, use of renewable resources for producing electricity is increasing. Solar panels are becoming more popular day by day.Solar panel absorbs the energy from the Sun, converts it into electrical energy and stores the energy in a battery.This energy can be utilized when required or can be used as a direct alternative to the grid supply. Utilization of the energy stored in batteries is mentioned in below given applications.The position of the Sun with respect to the solar panel is not fixed due to the rotation of the Earth. For an efficient usage of the solar energy, the Solar panels should absorb energy to a maximum extent.This can be done only if the panels are continuously placed towards the direction of the Sun. So, solar panel should continuously rotate in the direction of Sun. 
+  As the non renewable energy resources are decreasing, use of renewable resources for producing electricity is increasing. Solar panels are becoming more popular day by day.Solar panel absorbs the energy from the Sun, converts it into electrical energy and stores the energy in a battery.This energy can be utilized when required or can be used as a direct alternative to the grid supply. Utilization of the energy stored in batteries is mentioned in below given applications.The position of the Sun with respect to the solar panel is not fixed due to the rotation of the Earth. For an efficient usage of the solar energy, the Solar panels should absorb energy to a maximum extent.This can be done only if the panels are continuously placed towards the direction of the Sun. So, solar panel should continuously rotate in the direction of Sun. 
     
 Research:
  
@@ -49,64 +49,69 @@ SWOT ANALYSIS:
 
 Strengths:
 
-Renewable Energy Source	
+  Renewable Energy Source	
 
-Reduces Electricity Bills	
+  Reduces Electricity Bills	
 
-Diverse Applications	
+  Diverse Applications	
 
-Low Maintenance Costs	
+  Low Maintenance Costs	
 
-Technology Development
+  Technology Development
+
 
 Weakness:
 
-Cost
+  Cost
 
-Weather dependent
+  Weather dependent
 
-Solar Energy storage is expensive
+  Solar Energy storage is expensive
 
-Uses a lot of space
+  Uses a lot of space
 
-Associated with pollution
+  Associated with pollution
+
 
 Opportunities:
 
-Solar trackers generate more electricity than their stationary counterparts due to an increased direct exposure to solar rays.
+  Solar trackers generate more electricity than their stationary counterparts due to an increased direct exposure to solar rays.
+
 
 Threats:
 
-Location & Sunlight Availability.
+  Location & Sunlight Availability.
 
-Solar Panels use a large amount of space.
+  Solar Panels use a large amount of space.
 
-The Sun isn't always present.
+  The Sun isn't always present.
 
-Solar Energy is Inefficient.
+  Solar Energy is Inefficient.
 
-There is an overlooked Pollution & Environmental Impact.
+  There is an overlooked Pollution & Environmental Impact.
 
-Expensive Energy Storage.
+  Expensive Energy Storage.
 
-High Initial Cost.
+  High Initial Cost.
+
 
 
 High Level Requirements:
 
-The solar energy can be reused as it is non-renewable resource.
+  The solar energy can be reused as it is non-renewable resource.
 
-This also saves money as there is no need to pay for energy used (excluding the initial setup cost)
+  This also saves money as there is no need to pay for energy used (excluding the initial setup cost)
 
-Helps in maximizing the solar energy absorption by continuously tracking the sun.
+  Helps in maximizing the solar energy absorption by continuously tracking the sun.
+
 
 
 Low Level Requirements:
 
-Though solar energy can be utilized to maximum extent this may create problems in rainy season.
+  Though solar energy can be utilized to maximum extent this may create problems in rainy season.
 
-Although solar energy can be saved to batteries, they are heavy and occupy more space and required to change time to time.
+  Although solar energy can be saved to batteries, they are heavy and occupy more space and required to change time to time.
 
-They are expensive.
+  They are expensive.
 
 
