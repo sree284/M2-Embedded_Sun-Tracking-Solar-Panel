@@ -102,6 +102,7 @@ THREATS:
 • High Initial Cost.
 
 
+
 STRUCTURAL DIAGRAM:
 
 ![Structural diagram](https://user-images.githubusercontent.com/94340871/144432199-55fa9c01-e393-4920-9106-09522b33dcd9.png)
