@@ -102,15 +102,22 @@ THREATS:
 • High Initial Cost.
 
 
+STRUCTURAL DIAGRAM:
 
 ![Structural diagram](https://user-images.githubusercontent.com/94340871/144432199-55fa9c01-e393-4920-9106-09522b33dcd9.png)
 
 
+FLOW CHART:
+
 ![Flowchart](https://user-images.githubusercontent.com/94340871/144432241-e0bde456-e398-4802-9ba8-207fb9c6808e.png)
 
 
+BLOCK DIAGRAM:
+
 <img width="150" alt="Block diagram" src="https://user-images.githubusercontent.com/94340871/144432295-f155d2d4-1038-45e3-86fe-085991e4cbea.png">
 
+
+BEHAVIORAL DIAGRAM:
 
 ![Behavioral diagram](https://user-images.githubusercontent.com/94340871/144432343-501c2df9-6c7e-4f02-a2b5-1d4343ae621b.jpg)
 
