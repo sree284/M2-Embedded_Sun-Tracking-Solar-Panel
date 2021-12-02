@@ -1,0 +1,11 @@
+
+
+
+Bill of Materials:
+
+LDR-2 : LDR 1 Lux
+LDR-3 : LDR 1 Lux
+Resistor-6 : Resistor 10 kΩ
+Resistor-7 : Resistor 10 kΩ
+Resistor-9 : Resistor 10 kΩ
+atmega328-1 : atmega328   
